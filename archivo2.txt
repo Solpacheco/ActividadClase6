@@ -1,2 +1,6 @@
 actividadclase6
+<<<<<<< HEAD
 resolviendo punto 7 actvidad clase 6
+=======
+msj de prueba act clase 6 punto 7
+>>>>>>> 4d005d9e582940cac1dcd7c45b516973ab3d28e4
