@@ -3,4 +3,8 @@ actividadclase6
 resolviendo punto 7 actvidad clase 6
 =======
 msj de prueba act clase 6 punto 7
+<<<<<<< HEAD
 >>>>>>> 4d005d9e582940cac1dcd7c45b516973ab3d28e4
+=======
+msj de prueba 2
+>>>>>>> 7c31a5f2f374fa592dfffefa8800b341d2f1294d
