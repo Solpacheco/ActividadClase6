@@ -1,1 +1,4 @@
 resolucion de conflictos
+Al querer hacer un commit en el paso 5-4- me desconoció la terminal y tuve que usar git config global user.name y user.email. Luego funcionó. 
+Apareció un error de refusing to merge unrelated histories y se usó el comando git pull origin mian --allow-unrelated-histories. Luego se pudo hacer el git pull origin main. 
+Al querer hacer un cambio de nombre con el comando mv en el paso 6 tiró error y se solucionó usando git restore de ese arcivo modificado, se hizo un nuevo cambio y luego se siguió y funcionó. Ese mism ocomando se usó cuando trabajamos juntas en un mismo archivo. A las 2 participantes nos tiró error y nos dimos cuenta de que fue por poner una letra mayúscula en vez de minúscula. 
